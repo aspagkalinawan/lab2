@@ -1,0 +1,36 @@
+!DOCTYPE html>
+<html>
+<body>
+
+
+<p>Personal Profile</p>
+
+<p>Full Name: Albert Damian S. Pagkalinawan</p>
+
+<p>Nickname: Albert</p>
+
+<p>Age: 21</p>
+
+<p>Birthdate: September 23, 2001</p>
+
+<p>Senior High School Graduated From? City the High School is located at: Graduated from Integrated Montesori Center</p>
+
+<p>Course: BSIT-MI, Bachelor of Science in Information Technology with specialization in Mobile and Internet Technology</p>
+
+<p>Scholarship? Yes / No If yes, %? type?:  Yes, APC Loyalty Discount 2021Transferee / Second Course?: None</p>
+
+<p>Did you choose this course? Yes / NoWhy Yes?: Yes, I wanted to create my own game when I was young.</p>
+
+<p>I.T. Experience: Programming / Gaming / Others: None </p>
+
+<p>I.T experienceHobbies / Interests / libangan: Playing vedio games, Working out, Swimming</p>
+
+<p>Goals in life / pangarap sa buhay: Createmy own video game, have a good source of income</p>
+
+<p>What do you expect to learn from this course (Web Programming )?: I expect to build on my skills and learn new ones at the same time.</p>
+
+<p>What do you want to learn to help you in your chosen Major?:I want to learn different programming tools to help me in future jobs and interviews.</p>
+
+<p>Any other interesting aspects of your life that you would like to share;I like to build computers.</p>
+</body>
+</html>
