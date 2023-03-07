@@ -2,7 +2,7 @@
 <body>
 <div style = "border:5px double #000000">
   <center>
-<h1>Albert Pagkalinawan</h1>
+<h1>Albert Hello Pagkalinawan</h1>
 <p>Class BSIT-MI211.</p>
 <hr>
 <p>Personal Profile</p>
